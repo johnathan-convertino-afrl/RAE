@@ -1,0 +1,12 @@
+MANUAL INITIATION
+
+1. Run "source /flaskEnv/bin/activate" to activate the virtual environment
+
+2. Run "python3 web/websocket.py" to run the websocket that sends data to the front end
+
+3. Run "npm run dev -- --host" in web/front directory to start the front end 
+
+
+AUTOMATED INITIATION
+
+1. Run ~/setup.sh
